@@ -1,7 +1,13 @@
+//Author Name: Aayush S. Mahale
+        //Roll No.:- 2601
+
+
 public class Main {
 
     public static void main(String[] args) {
 
+
+        //Creating Objects
         GoaBusinessSchool gbs =
                 new GoaBusinessSchool(1, "Goa Business School");
 
